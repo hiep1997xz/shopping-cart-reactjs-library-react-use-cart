@@ -1,6 +1,5 @@
 import { CartProvider } from 'react-use-cart'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import './App.css'
 import Cart from './components/Cart'
 import Home from './components/Home'
 
